@@ -40,3 +40,9 @@
 
 3. Share an example of using the command with a path to a file as an argument.
 * screenshot of the command and its output<br />
+![Image](ls3.png)
+* The working directory is /home/leature1/messages/zh-cn.txt
+* The ls command with a path to a file as an argument with print out the path again to show the information about the diretcory.
+* No error for the output.
+
+
