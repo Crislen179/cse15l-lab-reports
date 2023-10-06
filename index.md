@@ -55,6 +55,13 @@
 
 2. Share an example of using the command with a path to a directory as an argument.
 * screenshot of the command and its output<br />
+![Image](cat2.png)
+* The working directory is /home in this case because the path is not working.
+* The cat command with a path to a directory as an argument will send an error message because cat command can only use the path to a file as an argument.
+* Output is an error because the cat command is for the system to print the contents of one or more files given by the paths, it can only use for a path with files not directory.
+
+3. Share an example of using the command with a path to a file as an argument.
+* screenshot of the command and its output<br />
 
   
 
