@@ -29,8 +29,8 @@
 ![Image](ls1.png)
 * The working directory is whatever current path the user is on, in this case the working directory is /home/lecture1.
 * The ls command with no arguments can list all the files and folders in the current path.
-* No error for the output.<br />
-    <br />
+* No error for the output.
+
 2. Share an example of using the command with a path to a directory as an argument.
 * screenshot of the command and its output<br />
 ![Image](ls2.png)
@@ -45,4 +45,10 @@
 * The ls command with a path to a file as an argument with print out the path again to show the information about the diretcory.
 * No error for the output.
 
+# For _cat_ command
+1. Share an example of using the command with no arguments
 
+
+
+
+   
