@@ -27,9 +27,16 @@
 1. Share an example of using the command with no arguments
 * screenshot of the command and its output<br />
 ![Image](ls1.png)
-* The working directory is /home/lecture1
-* The ls command with no arguments can list all the files and folders in the given path.
+* The working directory is whatever current path the user is on, in this case the working directory is /home/lecture1.
+* The ls command with no arguments can list all the files and folders in the current path.
 * No error for the output.<br />
     <br />
 2. Share an example of using the command with a path to a directory as an argument.
+* screenshot of the command and its output<br />
+![Image](ls2.png)
+* The working directory is /home/lecture1/messages
+* The ls command with a path to a directory as an argument can list all the files and folders in the given path.
+* No error for the output. <br />
+
+3. Share an example of using the command with a path to a file as an argument.
 * screenshot of the command and its output<br />
