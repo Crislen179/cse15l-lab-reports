@@ -1,4 +1,4 @@
-For __cd__ command
+# For _cd_ command
 1. Share an example of using the command with no arguments
 * screenshot of the command and its output<br />
     ![Image](cd1.png)
@@ -19,9 +19,11 @@ For __cd__ command
 ![Image](cd3.png)
 * The working directory when the command was run is /home
 * Error message sent out says it is not a directory
-* Output is an error, the reason that cd is that is used for changing directories, so it can not change the path to a file.
+* Output is an error, the reason that cd is that is used for changing directories, so it can not change the path to a file.<br />
+<br />
 
-For __ls__ command
+
+# For _ls_ command
 1. Share an example of using the command with no arguments
 * screenshot of the command and its output<br />
-   
+
