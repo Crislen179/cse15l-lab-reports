@@ -47,7 +47,16 @@
 
 # For _cat_ command
 1. Share an example of using the command with no arguments
+* screenshot of the command and its output<br />
+![Image](cat1.png)
+* The working directory is the path given by the user in the command. In this case, no path is given by the user, the working directory stays the current path that the user is on, which is /home.
+* The cat command with no arguments will wait for the user to enter, and it will repeat what user entered.
+* Output is an error because there is no path for cat command to search a file and print the contents.
 
+2. Share an example of using the command with a path to a directory as an argument.
+* screenshot of the command and its output<br />
+
+  
 
 
 
