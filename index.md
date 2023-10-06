@@ -29,5 +29,7 @@
 ![Image](ls1.png)
 * The working directory is /home/lecture1
 * The ls command with no arguments can list all the files and folders in the given path.
-* No error for the output. <br />
-<br />
+* No error for the output.<br />
+    <br />
+2. Share an example of using the command with a path to a directory as an argument.
+* screenshot of the command and its output<br />
