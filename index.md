@@ -26,4 +26,8 @@
 # For _ls_ command
 1. Share an example of using the command with no arguments
 * screenshot of the command and its output<br />
-
+![Image](ls1.png)
+* The working directory is /home/lecture1
+* The ls command with no arguments can list all the files and folders in the given path.
+* No error for the output. <br />
+<br />
