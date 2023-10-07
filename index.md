@@ -62,8 +62,11 @@
 
 3. Share an example of using the command with a path to a file as an argument.
 * screenshot of the command and its output<br />
-
-  
+![Image](cat3.png)
+* The working directory is the path given by the user in the command. In this case, the path is /home/leccture1/messages/en-zh.txt.
+* The cat command with a path to a file as an argument will print the contents inside the file.
+* No error for the output
+    
 
 
 
