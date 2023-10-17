@@ -34,7 +34,7 @@
 2. Share an example of using the command with a path to a directory as an argument.
 * screenshot of the command and its output<br />
 ![Image](ls2.png)
-* The working directory is /home/lecture1/messages
+* The working directory is /home.
 * The ls command with a path to a directory as an argument can list all the files and folders in the given path.
 * No error for the output. <br />
 
